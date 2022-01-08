@@ -2,7 +2,7 @@
 
 ## I'm a Student and Software Developer enthusiast!
 
-- 🔭 I’m currently working on [EventGo]!
+- 🔭 I’m currently working on [EventGo](https://www.behance.net/gallery/134056463/EventGo-Web-Service)!
 - 🌱 I’m currently learning HTML and CSS.
 - 👯 I’m looking to collaborate on web-dev projects. Especially front-end/UI/UX related.
 - 😄 Pronouns: He/Him.
@@ -11,10 +11,10 @@
 
 ### Connect with me!
 
-[<img align="left" alt="portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="behance" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/behance.svg" />][behance]
-[<img align="left" alt="instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="portfolio" width="22px" src="https://static.vecteezy.com/system/resources/previews/000/577/002/original/go-to-website-internet-icon-vector-illustration.jpg" />][website]
+[<img align="left" alt="linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
+[<img align="left" alt="behance" width="22px" src="http://icons.iconarchive.com/icons/danleech/simple/1024/behance-icon.png" />][behance]
+[<img align="left" alt="instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" />][instagram]
 
 <br />
 
@@ -30,6 +30,7 @@
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <br />
+<br />
 
 ## Art and Design
 
@@ -40,6 +41,7 @@
 <img align="left" alt="Illustrator" width="26px" src="https://www.vispronet.com/blog/wp-content/uploads/2017/12/2000px-Adobe_Illustrator_CC_icon.svg_-e1514410475242.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://icon-library.com/images/blender-3d-icon/blender-3d-icon-9.jpg" />
 <br />
+<br />
 
 ## Interaction Design
 
@@ -47,6 +49,7 @@
 
 <img align="left" alt="AdobeXD" width="26px" src="https://clipground.com/images/adobe-xd-icon-clipart.jpg" />
 <img align="left" alt="Figma" width="26px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
+<br />
 <br />
 
 ## Programming Languages
@@ -56,6 +59,7 @@
 <img align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" />
 <img align="left" alt="Unity" width="26px" src="https://i7.pngguru.com/preview/270/765/311/unity-game-engine-logo-video-game-corelle-brands.jpg" />
 <img align="left" alt="GML" width="26px" src="https://freefilehippo.com/wp-content/uploads/2020/11/gamemaker-studio-2-logo.png" />
+<br />
 <br />
 
 </details>
