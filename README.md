@@ -28,6 +28,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<br />
 
 ## Art and Design
 - 🎨 I love painting and art. I used to paint with oil paint, but now all my paintings are done digitally in Procreate! I also learn some 2D and 3D design, in Illustrator and Blender. My works are in [Behance][behance] and [Instagram][instagram]!
@@ -36,12 +37,14 @@
 <img align="left" alt="Photoshop" width="26px" src="https://www.studiobinder.com/wp-content/uploads/2017/12/Adobe_Photoshop_CC_icon.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://www.vispronet.com/blog/wp-content/uploads/2017/12/2000px-Adobe_Illustrator_CC_icon.svg_-e1514410475242.png" />
 <img align="left" alt="Illustrator" width="26px" src="https://icon-library.com/images/blender-3d-icon/blender-3d-icon-9.jpg" />
+<br />
 
 ## Interaction Design
 - 🤖 I took Human-Technology Interaction as my University Minor, and I love making great interaction desgin to enhance softwares' UX! I use Adobe Experience Design and Figma for it.
 
 <img align="left" alt="AdobeXD" width="26px" src="https://clipground.com/images/adobe-xd-icon-clipart.jpg" />
 <img align="left" alt="Figma" width="26px" src="https://i.pinimg.com/originals/a5/58/b4/a558b426cb8973523f37bbed94cf0f09.png" />
+<br />
 
 ## Programming Languages
 - 💻 I'm experience with C++ and Python. I learned some basic GML and C# through game development using GameMaker Studio 2 and Unity.
